@@ -11,11 +11,11 @@
 
 // Principle 1
 
-// function myName(name) {
-//   console.log(this);
-//   return name;
-// }
-// myName('Jose');
+function myName(name) {
+  console.log(this);
+  return name;
+}
+myName('Jose');
 
 // Principle 2
 
